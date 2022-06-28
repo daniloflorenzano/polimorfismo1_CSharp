@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcionarios", "Funcionarios\Funcionarios.csproj", "{12B1A44A-D9B2-4481-8340-436510F21887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B1A44A-D9B2-4481-8340-436510F21887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B1A44A-D9B2-4481-8340-436510F21887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B1A44A-D9B2-4481-8340-436510F21887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B1A44A-D9B2-4481-8340-436510F21887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88081CF5-878A-4C7B-89A3-52E6066B40EA}
+	EndGlobalSection
+EndGlobal
